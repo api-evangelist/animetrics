@@ -1,0 +1,53 @@
+{
+    "name": "Animetrics",
+    "description": "Animetrics is a leading developer of advanced 3D face recognition applications and face identity management solutions. www.Animetrics.com",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1767-animetrics.jpg",
+    "tags": [
+        "api provider",
+        "facial recognition",
+        "have api"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/animetrics\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Animetrics",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1767-animetrics.jpg",
+            "humanURL": "http:\/\/api.animetrics.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/animetrics-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/animetrics-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/animetrics"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/animetrics"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Animetrics"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/api.animetrics.com"
+        }
+    ]
+}
